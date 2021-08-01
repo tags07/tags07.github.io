@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://tags07.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Figure Shortcode</title>
-      <link>https://tags07.github.io/post/figure-shortcode/</link>
+      <link>https://tags07.github.io/examples/figure-shortcode/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://tags07.github.io/post/figure-shortcode/</guid>
+      <guid>https://tags07.github.io/examples/figure-shortcode/</guid>
       
         <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
       

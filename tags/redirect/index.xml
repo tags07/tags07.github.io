@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tags07.github.io/tags/redirect/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redirect</title>
-      <link>https://tags07.github.io/post/redirect/</link>
+      <link>https://tags07.github.io/examples/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tags07.github.io/post/redirect/</guid>
+      <guid>https://tags07.github.io/examples/redirect/</guid>
       
         <description>Forwarding to gohugo using redirectUrl
       </description>

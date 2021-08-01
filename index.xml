@@ -19,11 +19,22 @@
     </item>
     
     <item>
+      <title>Things to do</title>
+      <link>https://tags07.github.io/todo/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tags07.github.io/todo/</guid>
+      
+        <description>TODO List  Fizz Buzz Sprite creation and motion Matrics XY Plotter PID Controller simulation Localization in a discrete matrix Localization in a analog world.</description>
+      
+    </item>
+    
+    <item>
       <title>Redirect</title>
-      <link>https://tags07.github.io/post/redirect/</link>
+      <link>https://tags07.github.io/examples/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tags07.github.io/post/redirect/</guid>
+      <guid>https://tags07.github.io/examples/redirect/</guid>
       
         <description>Forwarding to gohugo using redirectUrl
       </description>
@@ -32,10 +43,10 @@
     
     <item>
       <title>The Figure Shortcode</title>
-      <link>https://tags07.github.io/post/figure-shortcode/</link>
+      <link>https://tags07.github.io/examples/figure-shortcode/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://tags07.github.io/post/figure-shortcode/</guid>
+      <guid>https://tags07.github.io/examples/figure-shortcode/</guid>
       
         <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
       
@@ -54,10 +65,10 @@
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://tags07.github.io/post/markdown-syntax/</link>
+      <link>https://tags07.github.io/examples/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tags07.github.io/post/markdown-syntax/</guid>
+      <guid>https://tags07.github.io/examples/markdown-syntax/</guid>
       
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       
@@ -65,10 +76,10 @@
     
     <item>
       <title>Rich Content</title>
-      <link>https://tags07.github.io/post/rich-content/</link>
+      <link>https://tags07.github.io/examples/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tags07.github.io/post/rich-content/</guid>
+      <guid>https://tags07.github.io/examples/rich-content/</guid>
       
         <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
@@ -77,10 +88,10 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://tags07.github.io/post/placeholder-text/</link>
+      <link>https://tags07.github.io/examples/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tags07.github.io/post/placeholder-text/</guid>
+      <guid>https://tags07.github.io/examples/placeholder-text/</guid>
       
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
@@ -99,10 +110,10 @@
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://tags07.github.io/post/math-typesetting/</link>
+      <link>https://tags07.github.io/examples/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tags07.github.io/post/math-typesetting/</guid>
+      <guid>https://tags07.github.io/examples/math-typesetting/</guid>
       
         <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
       
@@ -110,10 +121,10 @@
     
     <item>
       <title>Emoji Support</title>
-      <link>https://tags07.github.io/post/emoji-support/</link>
+      <link>https://tags07.github.io/examples/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tags07.github.io/post/emoji-support/</guid>
+      <guid>https://tags07.github.io/examples/emoji-support/</guid>
       
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
       
@@ -121,10 +132,10 @@
     
     <item>
       <title>Guide to Thumbnails in Hugo</title>
-      <link>https://tags07.github.io/post/image-test/</link>
+      <link>https://tags07.github.io/examples/image-test/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tags07.github.io/post/image-test/</guid>
+      <guid>https://tags07.github.io/examples/image-test/</guid>
       
         <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;images/landscape.</description>
       
@@ -149,7 +160,7 @@
       <guid>https://tags07.github.io/imprint/</guid>
       
         <description>Legal Disclosure Information in accordance with the applicable law
-Jane Doe</description>
+Gopi Palaniappan</description>
       
     </item>
     
